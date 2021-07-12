@@ -31,6 +31,11 @@ dependencies:
   flutter_svg: ^0.22.0 # help us to use SVG in our app
   provider: ^5.0.0 # for state management
 
+  flutter_countdown_timer: ^4.1.0
+  image_picker:
+  path_drawing: ^0.5.1
+  url_launcher:
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
